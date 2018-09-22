@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PeraltaJoseRafaelLab3</string>
+    <string name="image_desc">Quaipo Church</string>
+    <string name="location">Location: Quaipo, Manila</string>
+    <string name="distance">Distance from UST: 5 km</string>
+    <string name="back">Back</string>
+    <string name="next">Next</string>
+</resources>
